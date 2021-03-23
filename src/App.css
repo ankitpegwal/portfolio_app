@@ -34,3 +34,41 @@ nav ul li {
 /* .navbar-nav > li>a.active, .navbar-nav>li>a:focus {
   border-top:0.1875rem solid var(--primary-white)  ;
 } */
+/* *********Header*********** */
+.header-wraper{
+ position: relative;
+ background-position: center;
+  text-align: center;
+  background:url(lll.jpg) no-repeat ;
+  background-size: cover;
+  height: 90vh;
+}
+.main-info {
+color: grey;
+padding: 15px;
+
+text-align: center;
+align-items: center;
+display: flex;
+justify-content: center;
+flex-direction: column;
+}
+.main-info h1{
+  color:  wheat;
+  text-transform: uppercase;
+  
+
+}
+/* *********About********** */
+.about-wraper{
+  max-width:100rem;
+  height: 30rem;
+  background-color: greenyellow;
+  text-align: center;
+  
+}
+
+
+
+
+
